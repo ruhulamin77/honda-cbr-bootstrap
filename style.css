@@ -12,6 +12,22 @@ body {
   margin: 0;
   font-family: "Poppins", sans-serif;
 }
+.bg-navbar {
+  color: white;
+  background-color: #264653;
+}
+.nav-text {
+  color: white;
+}
+
+.login-btn {
+  width: 100px;
+  height: 40px;
+  background-color: #e76f51;
+  color: white;
+  border-radius: 5px;
+  border: none;
+}
 .colorfull-text {
   color: #e76f51;
 }
@@ -45,4 +61,7 @@ body {
   background-image: url(images/feature-bike.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+.new-arrival {
+  background-color: #f6f6f6;
 }

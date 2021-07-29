@@ -1,0 +1,29 @@
+/* ------------------------
+      google  fonst  
+------------------------*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap");
+
+/*------------------------
+common styles or utilities
+-------------------------*/
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+.grayscale {
+  filter: grayscale(100%);
+}
+.card-image img {
+  width: 150px;
+  height: 150px;
+}
+
+faq-image img {
+  width: 60%;
+}
+
+.fa-star {
+  color: #ffc014;
+}
